@@ -749,5 +749,13 @@ nav.dark, .sidebar .brand.dark{
     .sidebar:hover .ads{
         display: block;
     }
+
+    .content-data{
+        width: 100px;
+    }
+
+    .form-group input{
+        width: 80%;
+    }
     
 }
